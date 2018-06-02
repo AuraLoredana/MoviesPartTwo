@@ -5,5 +5,5 @@ package com.example.popescu.movies;
  */
 
 class DataApi {
-public static final String API_KEY = "cf6711634c446a5de3c060894dbc55b5"; //put your own apk here
+public static final String API_KEY = ""; //put your own apk here
 }
